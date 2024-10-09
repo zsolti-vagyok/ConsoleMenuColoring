@@ -1,0 +1,15 @@
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.exe
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.deps.json
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.runtimeconfig.json
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.dll
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.pdb
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.csproj.AssemblyReference.cache
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.AssemblyInfoInputs.cache
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.AssemblyInfo.cs
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.csproj.CoreCompileInputs.cache
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.dll
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\refint\ConsoleMenuColoring.dll
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.pdb
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.genruntimeconfig.cache
+C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ref\ConsoleMenuColoring.dll
