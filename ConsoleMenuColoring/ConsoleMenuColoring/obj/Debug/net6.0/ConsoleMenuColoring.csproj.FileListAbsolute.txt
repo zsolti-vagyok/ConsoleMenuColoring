@@ -13,3 +13,18 @@ C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMen
 C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.pdb
 C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.genruntimeconfig.cache
 C:\Users\Gortler Zsolt\source\repos\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ref\ConsoleMenuColoring.dll
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.exe
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.deps.json
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.runtimeconfig.json
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.dll
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\bin\Debug\net6.0\ConsoleMenuColoring.pdb
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.csproj.AssemblyReference.cache
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.GeneratedMSBuildEditorConfig.editorconfig
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.AssemblyInfoInputs.cache
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.AssemblyInfo.cs
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.csproj.CoreCompileInputs.cache
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.dll
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\refint\ConsoleMenuColoring.dll
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.pdb
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ConsoleMenuColoring.genruntimeconfig.cache
+D:\.iskolába\2024\1014\C#\zsolti-vagyok\ConsoleMenuColoring\ConsoleMenuColoring\ConsoleMenuColoring\obj\Debug\net6.0\ref\ConsoleMenuColoring.dll

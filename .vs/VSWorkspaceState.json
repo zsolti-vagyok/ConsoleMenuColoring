@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ConsoleMenuColoring",
+    "\\ConsoleMenuColoring\\ConsoleMenuColoring"
   ],
+  "SelectedNode": "\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj",
   "PreviewInSolutionExplorer": false
 }

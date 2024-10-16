@@ -189,11 +189,12 @@ namespace ConsoleMenus
             char karakter = '█';
             ConsoleColor currentColor = ConsoleColor.White;
             Console.CursorVisible = false;
+                StreamWriter sw = new StreamWriter("rajz.txt");
 
 
             while (true)
             {
-                Console.Clear();
+                //Console.Clear();
 
                 for (int i = 0; i < currentHeight; i++)
                 {
@@ -275,6 +276,15 @@ namespace ConsoleMenus
                 {
                     drawing[y, x] = ' ';
                     colorMatrix[y, x] = ConsoleColor.White;
+                    
+                }
+                else if (keyInfo.Key == ConsoleKey.RightArrow && keyInfo.Key == ConsoleKey.Spacebar)
+                {
+                    sw.Write(" "+karakter);
+                }
+                else if (keyInfo.Key == ConsoleKey.UpArrow && keyInfo.Key == ConsoleKey.Spacebar)
+                {
+                    sw.WriteLine(" ");
                 }
                 else if (keyInfo.Key == ConsoleKey.Escape)
                 {

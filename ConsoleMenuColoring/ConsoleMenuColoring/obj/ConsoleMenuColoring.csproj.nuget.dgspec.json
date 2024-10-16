@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gortler Zsolt\\source\\repos\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj": {}
+    "D:\\.iskolába\\2024\\1014\\C#\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gortler Zsolt\\source\\repos\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj": {
+    "D:\\.iskolába\\2024\\1014\\C#\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gortler Zsolt\\source\\repos\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj",
+        "projectUniqueName": "D:\\.iskolába\\2024\\1014\\C#\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj",
         "projectName": "ConsoleMenuColoring",
-        "projectPath": "C:\\Users\\Gortler Zsolt\\source\\repos\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj",
+        "projectPath": "D:\\.iskolába\\2024\\1014\\C#\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring.csproj",
         "packagesPath": "C:\\Users\\Gortler Zsolt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gortler Zsolt\\source\\repos\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\obj\\",
+        "outputPath": "D:\\.iskolába\\2024\\1014\\C#\\zsolti-vagyok\\ConsoleMenuColoring\\ConsoleMenuColoring\\ConsoleMenuColoring\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gortler Zsolt\\AppData\\Roaming\\NuGet\\NuGet.Config",
